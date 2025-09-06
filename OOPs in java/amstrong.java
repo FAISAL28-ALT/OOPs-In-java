@@ -1,6 +1,6 @@
 
 import java.util.*;
-class Main {
+class Amstrong {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Input the number to check Amstrong number: ");
